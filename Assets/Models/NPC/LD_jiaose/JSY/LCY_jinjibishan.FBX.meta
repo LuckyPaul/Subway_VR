@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 33d8c3d39b146484691d9129e6f839d0
+timeCreated: 1474177044
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 HeadNub
+    100004: Bip01 L Finger0Nub
+    100006: Bip01 L Finger1Nub
+    100008: Bip01 L Finger2Nub
+    100010: Bip01 L Toe0Nub
+    100012: Bip01 R Finger0Nub
+    100014: Bip01 R Finger1Nub
+    100016: Bip01 R Finger2Nub
+    100018: Bip01 R Toe0Nub
+    100020: fubu
+    100022: jinzhui
+    100024: LCY
+    100026: //RootNode
+    100028: pazi
+    100030: penggu
+    100032: tou
+    100034: xiongqiang
+    100036: youdabi
+    100038: youdamuzhi1
+    100040: youdamuzhi2
+    100042: youdatui
+    100044: youjian
+    100046: youjiaogen
+    100048: youjiaozhi
+    100050: youqitashouzhi1
+    100052: youqitashouzhi2
+    100054: youshizhi1
+    100056: youshizhi2
+    100058: youxiaobi
+    100060: youxiaotui
+    100062: zuobi
+    100064: zuodatui
+    100066: zuojian
+    100068: zuojiaogen
+    100070: zuojiaozhi
+    100072: zuoqitashouzhi1
+    100074: zuoqitashouzhi2
+    100076: zuoshouzhang
+    100078: zuoshouzhang 1
+    100080: zuoshouzhi1
+    100082: zuoshouzhi1 1
+    100084: zuoshouzhi2
+    100086: zuoshouzhi2 1
+    100088: zuoxiaobi
+    100090: zuoxiaotui
+    400000: Bip01
+    400002: Bip01 HeadNub
+    400004: Bip01 L Finger0Nub
+    400006: Bip01 L Finger1Nub
+    400008: Bip01 L Finger2Nub
+    400010: Bip01 L Toe0Nub
+    400012: Bip01 R Finger0Nub
+    400014: Bip01 R Finger1Nub
+    400016: Bip01 R Finger2Nub
+    400018: Bip01 R Toe0Nub
+    400020: fubu
+    400022: jinzhui
+    400024: LCY
+    400026: //RootNode
+    400028: pazi
+    400030: penggu
+    400032: tou
+    400034: xiongqiang
+    400036: youdabi
+    400038: youdamuzhi1
+    400040: youdamuzhi2
+    400042: youdatui
+    400044: youjian
+    400046: youjiaogen
+    400048: youjiaozhi
+    400050: youqitashouzhi1
+    400052: youqitashouzhi2
+    400054: youshizhi1
+    400056: youshizhi2
+    400058: youxiaobi
+    400060: youxiaotui
+    400062: zuobi
+    400064: zuodatui
+    400066: zuojian
+    400068: zuojiaogen
+    400070: zuojiaozhi
+    400072: zuoqitashouzhi1
+    400074: zuoqitashouzhi2
+    400076: zuoshouzhang
+    400078: zuoshouzhang 1
+    400080: zuoshouzhi1
+    400082: zuoshouzhi1 1
+    400084: zuoshouzhi2
+    400086: zuoshouzhi2 1
+    400088: zuoxiaobi
+    400090: zuoxiaotui
+    4300000: LCY
+    4300002: pazi
+    7400000: LCY_jinjibishan
+    9500000: //RootNode
+    13700000: LCY
+    13700002: pazi
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: eb4dd50de41603341b87ccd6a312a21f
+timeCreated: 1478765437
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 11
+    100002: 2
+    100004: 3
+    100006: Cylinder003
+    100008: Object010
+    100010: Object018
+    100012: Object020
+    100014: Object049
+    100016: Object064
+    100018: Object075
+    100020: Object076
+    100022: Object080
+    100024: Object081
+    100026: Object082
+    100028: Object083
+    100030: Object088
+    100032: Object089
+    100034: Object090
+    100036: Object093
+    100038: Object094
+    100040: Object095
+    100042: Object096
+    100044: Object097
+    100046: Object098
+    100048: Object102
+    100050: Object103
+    100052: Object104
+    100054: //RootNode
+    100056: ZXJ_dayuanqiu
+    400000: 11
+    400002: 2
+    400004: 3
+    400006: Cylinder003
+    400008: Object010
+    400010: Object018
+    400012: Object020
+    400014: Object049
+    400016: Object064
+    400018: Object075
+    400020: Object076
+    400022: Object080
+    400024: Object081
+    400026: Object082
+    400028: Object083
+    400030: Object088
+    400032: Object089
+    400034: Object090
+    400036: Object093
+    400038: Object094
+    400040: Object095
+    400042: Object096
+    400044: Object097
+    400046: Object098
+    400048: Object102
+    400050: Object103
+    400052: Object104
+    400054: //RootNode
+    400056: ZXJ_dayuanqiu
+    2300000: 11
+    2300002: 2
+    2300004: 3
+    2300006: Cylinder003
+    2300008: Object018
+    2300010: Object049
+    2300012: Object064
+    2300014: Object075
+    2300016: Object080
+    2300018: Object081
+    2300020: Object082
+    2300022: Object083
+    2300024: Object088
+    2300026: Object089
+    2300028: Object093
+    2300030: Object094
+    2300032: Object095
+    2300034: Object096
+    2300036: Object097
+    2300038: Object098
+    2300040: Object102
+    2300042: Object103
+    2300044: Object104
+    2300046: ZXJ_dayuanqiu
+    3300000: 11
+    3300002: 2
+    3300004: 3
+    3300006: Cylinder003
+    3300008: Object018
+    3300010: Object049
+    3300012: Object064
+    3300014: Object075
+    3300016: Object080
+    3300018: Object081
+    3300020: Object082
+    3300022: Object083
+    3300024: Object088
+    3300026: Object089
+    3300028: Object093
+    3300030: Object094
+    3300032: Object095
+    3300034: Object096
+    3300036: Object097
+    3300038: Object098
+    3300040: Object102
+    3300042: Object103
+    3300044: Object104
+    3300046: ZXJ_dayuanqiu
+    4300000: 11
+    4300002: 2
+    4300004: 3
+    4300006: Object080
+    4300008: ZXJ_dayuanqiu
+    4300010: Object075
+    4300012: Object049
+    4300014: Object082
+    4300016: Object083
+    4300018: Cylinder003
+    4300020: Object081
+    4300022: Object018
+    4300024: Object064
+    4300026: Object088
+    4300028: Object089
+    4300030: Object093
+    4300032: Object094
+    4300034: Object095
+    4300036: Object096
+    4300038: Object097
+    4300040: Object098
+    4300042: Object102
+    4300044: Object103
+    4300046: Object104
+    7400000: Action1
+    7400002: idle
+    7400004: Action2
+    7400006: Action3
+    7400008: Action4
+    7400010: Action5
+    7400012: Action6
+    7400014: Action7
+    7400016: Action8
+    7400018: Action9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Action1
+      takeName: Take 001
+      firstFrame: 163
+      lastFrame: 182
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 11
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object075
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object080
+        weight: 1
+      - path: Object081
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object083
+        weight: 1
+      - path: Object088
+        weight: 1
+      - path: Object089
+        weight: 1
+      - path: Object090
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object102
+        weight: 1
+      - path: Object103
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: ZXJ_dayuanqiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 11
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object075
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object080
+        weight: 1
+      - path: Object081
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object083
+        weight: 1
+      - path: Object088
+        weight: 1
+      - path: Object089
+        weight: 1
+      - path: Object090
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object102
+        weight: 1
+      - path: Object103
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: ZXJ_dayuanqiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action2
+      takeName: Take 001
+      firstFrame: 186
+      lastFrame: 201
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 11
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object075
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object080
+        weight: 1
+      - path: Object081
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object083
+        weight: 1
+      - path: Object088
+        weight: 1
+      - path: Object089
+        weight: 1
+      - path: Object090
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object102
+        weight: 1
+      - path: Object103
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: ZXJ_dayuanqiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action3
+      takeName: Take 001
+      firstFrame: 209
+      lastFrame: 221
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 11
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object075
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object080
+        weight: 1
+      - path: Object081
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object083
+        weight: 1
+      - path: Object088
+        weight: 1
+      - path: Object089
+        weight: 1
+      - path: Object090
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object102
+        weight: 1
+      - path: Object103
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: ZXJ_dayuanqiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action4
+      takeName: Take 001
+      firstFrame: 230
+      lastFrame: 241
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 11
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object075
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object080
+        weight: 1
+      - path: Object081
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object083
+        weight: 1
+      - path: Object088
+        weight: 1
+      - path: Object089
+        weight: 1
+      - path: Object090
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object102
+        weight: 1
+      - path: Object103
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: ZXJ_dayuanqiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action5
+      takeName: Take 001
+      firstFrame: 249
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 11
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object075
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object080
+        weight: 1
+      - path: Object081
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object083
+        weight: 1
+      - path: Object088
+        weight: 1
+      - path: Object089
+        weight: 1
+      - path: Object090
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object102
+        weight: 1
+      - path: Object103
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: ZXJ_dayuanqiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action6
+      takeName: Take 001
+      firstFrame: 269
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 11
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object075
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object080
+        weight: 1
+      - path: Object081
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object083
+        weight: 1
+      - path: Object088
+        weight: 1
+      - path: Object089
+        weight: 1
+      - path: Object090
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object102
+        weight: 1
+      - path: Object103
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: ZXJ_dayuanqiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action7
+      takeName: Take 001
+      firstFrame: 290
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 11
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object075
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object080
+        weight: 1
+      - path: Object081
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object083
+        weight: 1
+      - path: Object088
+        weight: 1
+      - path: Object089
+        weight: 1
+      - path: Object090
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object102
+        weight: 1
+      - path: Object103
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: ZXJ_dayuanqiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action8
+      takeName: Take 001
+      firstFrame: 300
+      lastFrame: 310
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 11
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object075
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object080
+        weight: 1
+      - path: Object081
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object083
+        weight: 1
+      - path: Object088
+        weight: 1
+      - path: Object089
+        weight: 1
+      - path: Object090
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object102
+        weight: 1
+      - path: Object103
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: ZXJ_dayuanqiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action9
+      takeName: Take 001
+      firstFrame: 311
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 11
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object075
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object080
+        weight: 1
+      - path: Object081
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object083
+        weight: 1
+      - path: Object088
+        weight: 1
+      - path: Object089
+        weight: 1
+      - path: Object090
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object102
+        weight: 1
+      - path: Object103
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: ZXJ_dayuanqiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

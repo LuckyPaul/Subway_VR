@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: b649e4f3192a2ac4aaac4b2a438e1f5f
+timeCreated: 1474343783
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 HeadNub
+    100004: Bip01 L Finger0Nub
+    100006: Bip01 L Finger1Nub
+    100008: Bip01 L Finger2Nub
+    100010: Bip01 L Toe0Nub
+    100012: Bip01 R Finger0Nub
+    100014: Bip01 R Finger1Nub
+    100016: Bip01 R Finger2Nub
+    100018: Bip01 R Toe0Nub
+    100020: fubu
+    100022: jinzhui
+    100024: paizi
+    100026: penggu
+    100028: tou
+    100030: xiongqiang
+    100032: youdabi
+    100034: youdamuzhi1
+    100036: youdamuzhi2
+    100038: youdatui
+    100040: youjian
+    100042: youjiaogen
+    100044: youjiaozhi
+    100046: youqitashouzhi1
+    100048: youqitashouzhi2
+    100050: youshizhi1
+    100052: youshizhi2
+    100054: youxiaobi
+    100056: youxiaotui
+    100058: zuobi
+    100060: zuodatui
+    100062: zuojian
+    100064: zuojiaogen
+    100066: zuojiaozhi
+    100068: zuoqitashouzhi1
+    100070: zuoqitashouzhi2
+    100072: zuoshouzhang
+    100074: zuoshouzhang 1
+    100076: zuoshouzhi1
+    100078: zuoshouzhi1 1
+    100080: zuoshouzhi2
+    100082: zuoshouzhi2 1
+    100084: zuoxiaobi
+    100086: zuoxiaotui
+    100088: ZWY
+    100090: //RootNode
+    400000: Bip01
+    400002: Bip01 HeadNub
+    400004: Bip01 L Finger0Nub
+    400006: Bip01 L Finger1Nub
+    400008: Bip01 L Finger2Nub
+    400010: Bip01 L Toe0Nub
+    400012: Bip01 R Finger0Nub
+    400014: Bip01 R Finger1Nub
+    400016: Bip01 R Finger2Nub
+    400018: Bip01 R Toe0Nub
+    400020: fubu
+    400022: jinzhui
+    400024: paizi
+    400026: penggu
+    400028: tou
+    400030: xiongqiang
+    400032: youdabi
+    400034: youdamuzhi1
+    400036: youdamuzhi2
+    400038: youdatui
+    400040: youjian
+    400042: youjiaogen
+    400044: youjiaozhi
+    400046: youqitashouzhi1
+    400048: youqitashouzhi2
+    400050: youshizhi1
+    400052: youshizhi2
+    400054: youxiaobi
+    400056: youxiaotui
+    400058: zuobi
+    400060: zuodatui
+    400062: zuojian
+    400064: zuojiaogen
+    400066: zuojiaozhi
+    400068: zuoqitashouzhi1
+    400070: zuoqitashouzhi2
+    400072: zuoshouzhang
+    400074: zuoshouzhang 1
+    400076: zuoshouzhi1
+    400078: zuoshouzhi1 1
+    400080: zuoshouzhi2
+    400082: zuoshouzhi2 1
+    400084: zuoxiaobi
+    400086: zuoxiaotui
+    400088: ZWY
+    400090: //RootNode
+    2300000: paizi
+    3300000: paizi
+    4300000: paizi
+    4300002: ZWY
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ZWY
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'zuoshouzhang 1' has translation animation that
+      will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: penggu
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youdatui
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuodatui
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youxiaotui
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuoxiaotui
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youjiaogen
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuojiaogen
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: xiongqiang
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jinzhui
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youjian
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuojian
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youdabi
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuobi
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youxiaobi
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuoxiaobi
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuoshouzhang
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuoshouzhang 1
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youjiaozhi
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuojiaozhi
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youdamuzhi1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youdamuzhi2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youshizhi1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youshizhi2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youqitashouzhi1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: youqitashouzhi2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuoshouzhi1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuoshouzhi2 1
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuoshouzhi1 1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuoshouzhi2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuoqitashouzhi1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zuoqitashouzhi2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tou
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ZWY_laba(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip01
+      position: {x: 0.016047863, y: 0.8838915, z: 0.012962092}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+      transformModified: 1
+    - name: penggu
+      position: {x: 0, y: 1.6047671, z: 0}
+      rotation: {x: 0.49999967, y: -0.50000036, z: -0.49999967, w: -0.50000036}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+      transformModified: 1
+    - name: fubu
+      position: {x: -13.051018, y: -2.925861, z: 0.000026583672}
+      rotation: {x: -0.0000021005803, y: -1.4414791e-14, z: -0.0000000067621206, w: 1}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999997}
+      transformModified: 1
+    - name: zuodatui
+      position: {x: 13.048683, y: 2.936276, z: -8.520214}
+      rotation: {x: 0.0033759049, y: 0.9995482, z: -0.0005745632, w: -0.029862015}
+      scale: {x: 1.0000011, y: 1.0000007, z: 1.0000014}
+      transformModified: 1
+    - name: zuoxiaotui
+      position: {x: -38.978413, y: -0.000000059604645, z: 0}
+      rotation: {x: -0.00000008359347, y: 0.000000024214383, z: 0.06765518, w: 0.99770874}
+      scale: {x: 0.99999964, y: 1.0000006, z: 0.9999998}
+      transformModified: 1
+    - name: zuojiaogen
+      position: {x: -42.21381, y: 0.0000009536743, z: -0.0000009536743}
+      rotation: {x: 0.05907978, y: -0.03408884, z: -0.069016516, w: 0.995281}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000004}
+      transformModified: 1
+    - name: zuojiaozhi
+      position: {x: -7.76756, y: 12.388971, z: -0.0000009536743}
+      rotation: {x: 0.0000000074505797, y: 0.000000035390254, z: -0.70710677, w: 0.7071069}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000007}
+      transformModified: 1
+    - name: Bip01 R Toe0Nub
+      position: {x: -8.4418545, y: 0, z: 0.0000019073486}
+      rotation: {x: 2.599112e-32, y: 1.170536e-16, z: -2.220446e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xiongqiang
+      position: {x: -21.860603, y: -0.019372344, z: -0.00000011920929}
+      rotation: {x: -1.8189892e-11, y: -1.5287249e-17, z: 1.816147e-11, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: jinzhui
+      position: {x: -24.328575, y: -0.008202076, z: 0.00000011920929}
+      rotation: {x: -0, y: -0, z: -2.7807342e-28, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: zuojian
+      position: {x: 0.8128357, y: -0.5885911, z: -3.9165335}
+      rotation: {x: 0.66922116, y: -0.0000010440773, z: 0.74306333, w: -0.0000010441648}
+      scale: {x: 1.0000015, y: 1.0000012, z: 1.0000006}
+      transformModified: 1
+    - name: zuobi
+      position: {x: -14.53974, y: -0.00000023841858, z: 0}
+      rotation: {x: -0.02358119, y: -0.027856907, z: -0.0048749954, w: 0.9993219}
+      scale: {x: 0.9999989, y: 0.99999917, z: 0.99999917}
+      transformModified: 1
+    - name: zuoxiaobi
+      position: {x: -28.082123, y: 0.0000019073486, z: -0.0000038146973}
+      rotation: {x: 0.0019087526, y: -0.01642426, z: 0.040102594, w: 0.9990588}
+      scale: {x: 0.99999994, y: 0.9999995, z: 1}
+      transformModified: 1
+    - name: zuoshouzhang 1
+      position: {x: -28.349777, y: 0.00000047683716, z: 0}
+      rotation: {x: 0.70613396, y: -0.024995778, z: -0.031276066, w: 0.7069454}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: zuoqitashouzhi1
+      position: {x: -9.467079, y: -0.6930542, z: -1.3127961}
+      rotation: {x: 0.026656171, y: 0.09980192, z: -0.06672454, w: 0.9924096}
+      scale: {x: 1.000001, y: 1.0000007, z: 1.0000001}
+      transformModified: 1
+    - name: zuoqitashouzhi2
+      position: {x: -4.7592163, y: 0, z: 0}
+      rotation: {x: -0.000005640088, y: -0.00000043213356, z: -0.032205936, w: 0.99948126}
+      scale: {x: 0.9999995, y: 1.0000002, z: 0.9999999}
+      transformModified: 1
+    - name: Bip01 R Finger2Nub
+      position: {x: -6.6972437, y: 0, z: 0}
+      rotation: {x: 0.0000000018626451, y: -0.0000000018626451, z: 1, w: 6.470179e-17}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: zuoshouzhi1
+      position: {x: -3.0412445, y: 1.8543625, z: 4.26789}
+      rotation: {x: -0.6037434, y: 0.19298667, z: 0.060955003, w: 0.77106076}
+      scale: {x: 1.0000011, y: 1.0000017, z: 1.0000011}
+      transformModified: 1
+    - name: zuoshouzhi2 1
+      position: {x: -5.199692, y: 0.0000038146973, z: -0.0000019073486}
+      rotation: {x: -0, y: -0.0000026226037, z: -0.03141713, w: 0.99950635}
+      scale: {x: 0.999999, y: 0.99999946, z: 0.99999964}
+      transformModified: 1
+    - name: Bip01 R Finger0Nub
+      position: {x: -3.8477325, y: 0.00000047683716, z: -0.0000019073486}
+      rotation: {x: -0.000000014901161, y: -2.0372681e-10, z: 1, w: 5.8196577e-17}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: zuoshouzhi1 1
+      position: {x: -9.412109, y: 0.12319946, z: 2.8392792}
+      rotation: {x: 0.019205417, y: 0.10700429, z: -0.078349136, w: 0.9909807}
+      scale: {x: 1.000001, y: 1.0000014, z: 1.0000001}
+      transformModified: 1
+    - name: zuoshouzhi2
+      position: {x: -4.6167297, y: 0.0000019073486, z: 0}
+      rotation: {x: 0.00000041350708, y: -0.0000010281798, z: -0.030065913, w: 0.99954796}
+      scale: {x: 0.9999995, y: 0.9999994, z: 0.99999946}
+      transformModified: 1
+    - name: Bip01 R Finger1Nub
+      position: {x: -5.5920286, y: 0, z: -0.0000009536743}
+      rotation: {x: 0.0000000018626451, y: -1.1405413e-25, z: 1, w: 6.123234e-17}
+      scale: {x: -1, y: -1, z: -1.0000001}
+      transformModified: 1
+    - name: youjian
+      position: {x: 0.8128357, y: -0.58861256, z: 3.9165325}
+      rotation: {x: -0.6692212, y: -0.0000010738801, z: 0.74306333, w: 0.0000009845598}
+      scale: {x: 1.0000007, y: 1.000001, z: 1.0000006}
+      transformModified: 1
+    - name: youdabi
+      position: {x: -14.53974, y: 0.00000023841858, z: -0.000015258789}
+      rotation: {x: 0.023581069, y: 0.027856914, z: -0.0048749894, w: 0.9993219}
+      scale: {x: 1.0000002, y: 0.9999997, z: 0.9999995}
+      transformModified: 1
+    - name: youxiaobi
+      position: {x: -28.082123, y: 0, z: 0}
+      rotation: {x: -0.0019088662, y: 0.016424779, z: 0.040102474, w: 0.9990588}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000004}
+      transformModified: 1
+    - name: zuoshouzhang
+      position: {x: -28.349777, y: -0.0000009536743, z: 0}
+      rotation: {x: -0.70613396, y: 0.024995796, z: -0.031276044, w: 0.7069455}
+      scale: {x: 1.0000012, y: 1.0000017, z: 1.0000019}
+      transformModified: 1
+    - name: youqitashouzhi1
+      position: {x: -9.467087, y: -0.6930504, z: 1.3127961}
+      rotation: {x: 0.026657036, y: 0.09980273, z: 0.06672231, w: -0.99240977}
+      scale: {x: 0.99999964, y: 0.9999995, z: 0.9999999}
+      transformModified: 1
+    - name: youqitashouzhi2
+      position: {x: -4.7592087, y: 0, z: 0.00000047683716}
+      rotation: {x: -0.0000054649977, y: 0.00000007450576, z: 0.032211006, w: -0.99948114}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000012}
+      transformModified: 1
+    - name: Bip01 L Finger2Nub
+      position: {x: -6.6972466, y: 0, z: 0.00000047683716}
+      rotation: {x: 2.7755576e-17, y: 9.313226e-10, z: -0.000000029802322, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: youdamuzhi1
+      position: {x: -3.0412445, y: 1.8543663, z: -4.267889}
+      rotation: {x: 0.6037433, y: -0.1929858, z: 0.060954772, w: 0.7710609}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000001}
+      transformModified: 1
+    - name: youdamuzhi2
+      position: {x: -5.1996765, y: -0.0000038146973, z: -0.0000038146973}
+      rotation: {x: -0.00000035762775, y: 0.00000089406933, z: -0.031415667, w: 0.9995065}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1.0000005}
+      transformModified: 1
+    - name: Bip01 L Finger0Nub
+      position: {x: -3.847725, y: -0.00000047683716, z: 0}
+      rotation: {x: 2.3283067e-10, y: -2.1684046e-19, z: -9.313226e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: youshizhi1
+      position: {x: -9.412117, y: 0.12320328, z: -2.8392785}
+      rotation: {x: -0.019205472, y: -0.10700343, z: -0.07834977, w: 0.9909807}
+      scale: {x: 1.0000007, y: 1.0000013, z: 1.000001}
+      transformModified: 1
+    - name: youshizhi2
+      position: {x: -4.6167297, y: 0, z: -0.0000009536743}
+      rotation: {x: -0.0000012889501, y: -0.00000014901158, z: -0.030065903, w: 0.999548}
+      scale: {x: 1.0000011, y: 1.0000005, z: 1.0000012}
+      transformModified: 1
+    - name: Bip01 L Finger1Nub
+      position: {x: -5.5920334, y: 0, z: 0.0000009536743}
+      rotation: {x: -0.0000000037252907, y: 5.551116e-17, z: -0.000000014901161, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: tou
+      position: {x: -10.300629, y: 0, z: 0}
+      rotation: {x: -0.0000020676505, y: 0.00000042424895, z: -0.050732397, w: 0.9987123}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+      transformModified: 1
+    - name: Bip01 HeadNub
+      position: {x: -22.030624, y: 0.0000019073486, z: 0}
+      rotation: {x: 1.2434497e-13, y: 4.6322104e-22, z: 0.0000000037252899, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: youdatui
+      position: {x: 13.048683, y: 2.9362288, z: 8.520223}
+      rotation: {x: 0.0033780057, y: 0.99954826, z: 0.0005773647, w: 0.029861981}
+      scale: {x: 1.0000006, y: 1, z: 1.0000011}
+      transformModified: 1
+    - name: youxiaotui
+      position: {x: -38.978416, y: 0.000000059604645, z: 0.0000009536743}
+      rotation: {x: -0.0000000433356, y: 0.00000006146728, z: 0.067650646, w: 0.9977091}
+      scale: {x: 0.9999997, y: 1.0000004, z: 0.9999999}
+      transformModified: 1
+    - name: youjiaogen
+      position: {x: -42.213818, y: -0.00000047683716, z: -0.0000009536743}
+      rotation: {x: -0.059079833, y: 0.03408856, z: -0.069014, w: 0.99528116}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000005}
+      transformModified: 1
+    - name: youjiaozhi
+      position: {x: -7.76756, y: 12.388971, z: -0.0000009536743}
+      rotation: {x: 0.00000004470348, y: -0.000000009313225, z: -0.70710677, w: 0.7071069}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+      transformModified: 1
+    - name: Bip01 L Toe0Nub
+      position: {x: -8.441854, y: 0, z: 0.0000009536743}
+      rotation: {x: -1.1705361e-16, y: -7.1674666e-33, z: 1, w: -6.123234e-17}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: paizi
+      position: {x: 0.09603162, y: 1.3816012, z: 0.14602327}
+      rotation: {x: -0.51280063, y: 0.48686293, z: 0.48686293, w: 0.51280063}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+      transformModified: 1
+    - name: ZWY
+      position: {x: 0.016047897, y: 0.9056941, z: 0.012962094}
+      rotation: {x: -0.50000006, y: 0.49999997, z: 0.49999997, w: 0.50000006}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
